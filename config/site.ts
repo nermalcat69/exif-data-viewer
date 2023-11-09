@@ -11,6 +11,6 @@ export const siteConfig = {
   ],
   links: {
     twitter: "https://twitter.com/nermalcat69",
-    github: "https://github.com/nermalcat69",
+    github: "https://github.com/nermalcat69/exif-data-viewer",
   },
 }
