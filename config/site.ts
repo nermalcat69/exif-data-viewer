@@ -10,7 +10,7 @@ export const siteConfig = {
     },
   ],
   links: {
-    contribute: "https://github.com/nermalcat69/projects",
+    contribute: "https://github.com/nermalcat69/exif-data-viewer",
     twitter: "https://twitter.com/nermalcat69",
     github: "https://github.com/nermalcat69/",
   },
