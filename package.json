@@ -20,6 +20,8 @@
     "class-variance-authority": "^0.4.0",
     "clsx": "^1.2.1",
     "dayjs": "^1.11.10",
+    "exif": "^0.6.0",
+    "exif-reader": "^2.0.0",
     "geist": "^1.0.0",
     "lucide-react": "0.105.0-alpha.4",
     "marked": "^9.1.5",
