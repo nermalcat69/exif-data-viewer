@@ -1,6 +1,7 @@
 # Exif Data Viewer
 
-![header-image](https://repository-images.githubusercontent.com/699297039/5acd85f6-0375-4b85-878b-e3ca7b95580f)
+![Frame 12-3](https://github.com/nermalcat69/exif-data-viewer/assets/73933669/cdd58507-001e-463a-99c6-5e2981f07d27)
+
 
 exif data viewer with sleek user interface
 
